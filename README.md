@@ -3,7 +3,7 @@
 Companion code for the tutorial series about building a streaming Twitter filter using Python and Redis.
 
 - [Udemy Course (free)](https://www.udemy.com/course/build-a-streaming-twitter-filter-with-python-and-redis)
-     "K2 Data Science takes you all the way through the solution.  Really well done, thought out and perfect flow from requirements, to prototype, visual mockup, to working Redis key-value store with flask app" LarryT (https://github.com/Rigelan"
+     "K2 Data Science takes you all the way through the solution.  Really well done, thought out and perfect flow from requirements, to prototype, visual mockup, to working Redis key-value store with flask app" LarryT (https://github.com/Rigelan")
 - [YouTube Playlist (coming soon)]()
 - [Medium Article (coming soon)]()
 
